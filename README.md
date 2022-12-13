@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OluchiOr
 - 👀 I’m interested in working
 - 🌱 I’m currently learning data analytics and blockchain technology.
-- 💞️ I’m looking to work with organisations(NGOs) in Abuja, Nigeria on Data analysis
+- 💞️ I’m looking to work with International organisation.
 - 📫 How to reach me on my mail oluchiorjii2@gmail.com
 
 <!---
