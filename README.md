@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @OluchiOr
-- 👀 I’m interested in working
-- 🌱 I’m currently learning data analytics and blockchain technology.
-- 💞️ I’m looking to work with International organisation.
+- 👋 Hi, I’m Oluchi Happiness Orji
 - 📫 How to reach me on my mail oluchiorjii2@gmail.com
 
 <!---
